@@ -9,6 +9,7 @@ const Members = props => {
                 <h2>Name: {person.name}</h2>
                 <p>Email: {person.email}</p>
                 <p>Role: {person.role}</p>
+                <button>Edit</button>
                 </div>
         ))}
     </div>
